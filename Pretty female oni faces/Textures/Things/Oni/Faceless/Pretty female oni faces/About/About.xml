@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Oni of the Rim - Faceless heads</name>
+	<author>Lucky</author>
+	<url></url>
+    <supportedVersions>
+        <li>1.0</li>
+        <li>1.1</li>
+    </supportedVersions>
+    <packageId>lucky.onioftherim.FacelessHeads</packageId>
+	<description>
+	
+Place this directly after Oni of the Rim race mod in load order.
+
+Requires Alien Framework V2.0 by Erdelf  https://steamcommunity.com/workshop/filedetails/?id=839005762
+Original art and concept by Ameiro.
+Conversion to a race mod, xml, coding, and sprite modifications - MoriShep
+xml, coding, tidying and debugging - Tarojun
+New spritework - Lucky
+</description>
+</ModMetaData>
